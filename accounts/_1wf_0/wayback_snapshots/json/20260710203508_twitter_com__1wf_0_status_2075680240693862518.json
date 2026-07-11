@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2075680240693862518",
+    "created_at": "2026-07-10T20:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T21:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075680240693862518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_1wf_0/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/_1wf_0/status/2075674217828512085",
+          "start": 14,
+          "url": "https://t.co/1YcEcd2UNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075680240693862518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075674217828512085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "請幫我轉轉尋回推友🥺拜托了 https://t.co/1YcEcd2UNu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075674211247620096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM5Gsp7agAAdYGd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2075680240693862518",
+        "created_at": "2026-07-10T20:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075680240693862518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_1wf_0/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/_1wf_0/status/2075674217828512085",
+              "start": 14,
+              "url": "https://t.co/1YcEcd2UNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075680240693862518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075674217828512085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "請幫我轉轉尋回推友🥺拜托了 https://t.co/1YcEcd2UNu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075674211247620096"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2075674217828512085",
+        "created_at": "2026-07-10T20:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075674217828512085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2QqRjmpz3",
+              "end": 93,
+              "expanded_url": "https://x.com/_1wf_0/status/2075674217828512085/photo/1",
+              "media_key": "3_2075674211247620096",
+              "start": 70,
+              "url": "https://t.co/y2QqRjmpz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075674217828512085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是TT/泪酱2.0 我重生了𖦹 ɷ 𖦹\n請助我尋找互關…\n躁郁 ｜bpd｜思覺失調｜\n超容易爆炸 核彈妹\n我是爛人不能接受 請不要靠近我 https://t.co/y2QqRjmpz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      }
+    ]
+  }
+}
