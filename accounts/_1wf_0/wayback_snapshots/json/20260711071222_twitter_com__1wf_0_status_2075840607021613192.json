@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2075674217828512085",
+    "created_at": "2026-07-11T07:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075840607021613192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757256163564118016",
+          "start": 0,
+          "username": "chenli0105_1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075840607021613192",
+    "in_reply_to_user_id": "1757256163564118016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075832114579493224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenli0105_1215 寶寶🥺💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2075674217828512085",
+        "created_at": "2026-07-11T07:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075840607021613192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757256163564118016",
+              "start": 0,
+              "username": "chenli0105_1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075840607021613192",
+        "in_reply_to_user_id": "1757256163564118016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075832114579493224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenli0105_1215 寶寶🥺💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757256163564118016",
+        "conversation_id": "2075674217828512085",
+        "created_at": "2026-07-11T06:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075832114579493224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075670932119859200",
+              "start": 0,
+              "username": "_1wf_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075832114579493224",
+        "in_reply_to_user_id": "2075670932119859200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075674217828512085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_1wf_0 老婆是我🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 36,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T04:11:56.000Z",
+        "description": "只係隻兔仔 唔好要求太多\nIG:rosanna_0105_",
+        "id": "1757256163564118016",
+        "location": "🐰",
+        "name": "沉黎",
+        "pinned_tweet_id": "2070515490955661814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038973466406486016/NC0hb4xR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 81,
+          "like_count": 2660,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "chenli0105_1215",
+        "verified": false
+      }
+    ]
+  }
+}

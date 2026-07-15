@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2076172189095862393",
+    "created_at": "2026-07-13T10:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076608362037522547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076608362037522547",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076172189095862393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 喵如果一直留在里面 那是不是尿道的跳蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 91811,
+        "height": 720,
+        "media_key": "13_2076171932245065728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076171932245065728/img/M3Ny05TIW_Ul24KZ.jpg",
+        "public_metrics": {
+          "view_count": 55545
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076171932245065728/vid/avc1/480x270/17kEoCPaxS6Be_eq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076171932245065728/vid/avc1/640x360/C3LEwgW_3jJYqosy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076171932245065728/vid/avc1/1280x720/qvUrr1kJHqSZu9OE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076171932245065728/pl/uTjutzN5HF3-yaTZ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2076172189095862393",
+        "created_at": "2026-07-13T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076608362037522547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076608362037522547",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076172189095862393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 喵如果一直留在里面 那是不是尿道的跳蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076171932245065728"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2076172189095862393",
+        "created_at": "2026-07-12T05:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076172189095862393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Qk5o52naa",
+              "end": 26,
+              "expanded_url": "https://x.com/lover_ning/status/2076172189095862393/video/1",
+              "media_key": "13_2076171932245065728",
+              "start": 3,
+              "url": "https://t.co/8Qk5o52naa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076172189095862393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 154919,
+          "like_count": 1031,
+          "quote_count": 32,
+          "reply_count": 370,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽 https://t.co/8Qk5o52naa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 56,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "自用VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294276,
+          "following_count": 92,
+          "like_count": 32570,
+          "listed_count": 483,
+          "media_count": 3598,
+          "tweet_count": 28635
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}
