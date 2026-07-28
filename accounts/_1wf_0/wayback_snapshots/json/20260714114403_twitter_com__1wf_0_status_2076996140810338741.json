@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2076688492239933860",
+    "created_at": "2026-07-14T11:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076996140810338741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647170304844914689",
+          "start": 0,
+          "username": "DustSwallo15805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076996140810338741",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076688492239933860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DustSwallo15805 这个是我妈么 那不死了操完之后死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1338,
+        "media_key": "3_2076688471679463424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHhKYeacAAUvkA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2076688492239933860",
+        "created_at": "2026-07-14T11:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076996140810338741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076996140810338741",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076688492239933860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 这个是我妈么 那不死了操完之后死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076688471679463424"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2076688492239933860",
+        "created_at": "2026-07-13T15:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076688492239933860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqfXgCtuyW",
+              "end": 23,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2076688492239933860/photo/1",
+              "media_key": "3_2076688471679463424",
+              "start": 0,
+              "url": "https://t.co/dqfXgCtuyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076688492239933860",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11339,
+          "like_count": 156,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dqfXgCtuyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 60,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi｜ｂｏｃ是傻逼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 868,
+          "like_count": 85680,
+          "listed_count": 4,
+          "media_count": 726,
+          "tweet_count": 4312
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079774207886635008"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2079774213448364542",
+    "created_at": "2026-07-22T03:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079774213448364542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uZVcVwBDn6",
+          "end": 25,
+          "expanded_url": "https://x.com/_1wf_0/status/2079774213448364542/photo/1",
+          "media_key": "3_2079774207886635008",
+          "start": 2,
+          "url": "https://t.co/uZVcVwBDn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079774213448364542",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/uZVcVwBDn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079774207886635008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzXn3oaMAANuvE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079774207886635008"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2079774213448364542",
+        "created_at": "2026-07-22T03:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079774213448364542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZVcVwBDn6",
+              "end": 25,
+              "expanded_url": "https://x.com/_1wf_0/status/2079774213448364542/photo/1",
+              "media_key": "3_2079774207886635008",
+              "start": 2,
+              "url": "https://t.co/uZVcVwBDn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079774213448364542",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/uZVcVwBDn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 59,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      }
+    ]
+  }
+}

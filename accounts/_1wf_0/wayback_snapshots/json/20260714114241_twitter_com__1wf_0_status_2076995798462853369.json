@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2076995798462853369",
+    "created_at": "2026-07-14T11:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076995798462853369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823160336691982336",
+          "start": 3,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076995798462853369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076608183838364125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hozheganma: 药管控到一定程度，要是比毒还难搞，那还不如吸毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2076995798462853369",
+        "created_at": "2026-07-14T11:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076995798462853369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823160336691982336",
+              "start": 3,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076995798462853369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076608183838364125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hozheganma: 药管控到一定程度，要是比毒还难搞，那还不如吸毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823160336691982336",
+        "conversation_id": "2076608183838364125",
+        "created_at": "2026-07-13T10:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076608183838364125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076608183838364125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8797,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "药管控到一定程度，要是比毒还难搞，那还不如吸毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 60,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "废物高三牲畜…/昏迷于白天，活跃于夜间/重度游戏🎮中../oder🚬/无戒断之人😇/自伤/友跨/存在二象形\n/同类互fo（若没及时回sorry😿）/无政府/q我：https://t.co/cNzWslTT8R\n银叶红丝，压片与胶囊散落",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 104,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 81,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "Plateau F-1",
+        "name": "沫依#Ng♓️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 416,
+          "like_count": 2029,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

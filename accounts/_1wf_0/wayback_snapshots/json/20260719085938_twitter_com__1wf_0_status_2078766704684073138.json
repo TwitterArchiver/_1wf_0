@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078734026496720897",
+        "3_2078734026484137984",
+        "3_2078734026496761856",
+        "3_2078734026463158272"
+      ],
+      "media_source_tweet_id": [
+        "2078734039125725674",
+        "2078734039125725674",
+        "2078734039125725674",
+        "2078734039125725674"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2078766704684073138",
+    "created_at": "2026-07-19T08:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T09:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078766704684073138"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "女高"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "小狗"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "反差"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "电子女友"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "广东"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "半绿"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063333985514901504",
+          "start": 3,
+          "username": "WgehWgehcmwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u8b97c05Aa",
+          "end": 127,
+          "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+          "media_key": "3_2078734026496720897",
+          "start": 104,
+          "url": "https://t.co/u8b97c05Aa"
+        },
+        {
+          "display_url": "pic.x.com/u8b97c05Aa",
+          "end": 127,
+          "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+          "media_key": "3_2078734026484137984",
+          "start": 104,
+          "url": "https://t.co/u8b97c05Aa"
+        },
+        {
+          "display_url": "pic.x.com/u8b97c05Aa",
+          "end": 127,
+          "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+          "media_key": "3_2078734026496761856",
+          "start": 104,
+          "url": "https://t.co/u8b97c05Aa"
+        },
+        {
+          "display_url": "pic.x.com/u8b97c05Aa",
+          "end": 127,
+          "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+          "media_key": "3_2078734026463158272",
+          "start": 104,
+          "url": "https://t.co/u8b97c05Aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078766704684073138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078734039125725674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WgehWgehcmwo: 一个泪泪的置顶🔝\n坐标广东全国可飞家里人不给我生活费很需要钱 许愿一个爱我的🚪哥验证20什么都接 价格过门解锁\n#女高 #小狗 #反差 #电子女友 #广东 #半绿 #线下 https://t.co/u8b97c05Aa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2078734026496720897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkllV_awAEGmwu.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2078734026484137984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkllV8awAA3SLy.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2078734026496761856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkllV_bYAADjG4.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2078734026463158272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkllV3aoAAOLPC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078734026496720897",
+            "3_2078734026484137984",
+            "3_2078734026496761856",
+            "3_2078734026463158272"
+          ]
+        },
+        "author_id": "2063333985514901504",
+        "conversation_id": "2078734039125725674",
+        "created_at": "2026-07-19T06:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078734039125725674"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "女高"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "小狗"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "反差"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "电子女友"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "广东"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "半绿"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 109,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026496720897",
+              "start": 86,
+              "url": "https://t.co/u8b97c05Aa"
+            },
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 109,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026484137984",
+              "start": 86,
+              "url": "https://t.co/u8b97c05Aa"
+            },
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 109,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026496761856",
+              "start": 86,
+              "url": "https://t.co/u8b97c05Aa"
+            },
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 109,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026463158272",
+              "start": 86,
+              "url": "https://t.co/u8b97c05Aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078734039125725674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一个泪泪的置顶🔝\n坐标广东全国可飞家里人不给我生活费很需要钱 许愿一个爱我的🚪哥验证20什么都接 价格过门解锁\n#女高 #小狗 #反差 #电子女友 #广东 #半绿 #线下 https://t.co/u8b97c05Aa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078734026496720897",
+            "3_2078734026484137984",
+            "3_2078734026496761856",
+            "3_2078734026463158272"
+          ],
+          "media_source_tweet_id": [
+            "2078734039125725674",
+            "2078734039125725674",
+            "2078734039125725674",
+            "2078734039125725674"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2078766704684073138",
+        "created_at": "2026-07-19T08:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078766704684073138"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "女高"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "小狗"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "反差"
+            },
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "电子女友"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "广东"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "半绿"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "线下"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063333985514901504",
+              "start": 3,
+              "username": "WgehWgehcmwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 127,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026496720897",
+              "start": 104,
+              "url": "https://t.co/u8b97c05Aa"
+            },
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 127,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026484137984",
+              "start": 104,
+              "url": "https://t.co/u8b97c05Aa"
+            },
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 127,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026496761856",
+              "start": 104,
+              "url": "https://t.co/u8b97c05Aa"
+            },
+            {
+              "display_url": "pic.x.com/u8b97c05Aa",
+              "end": 127,
+              "expanded_url": "https://x.com/WgehWgehcmwo/status/2078734039125725674/photo/1",
+              "media_key": "3_2078734026463158272",
+              "start": 104,
+              "url": "https://t.co/u8b97c05Aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078766704684073138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078734039125725674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WgehWgehcmwo: 一个泪泪的置顶🔝\n坐标广东全国可飞家里人不给我生活费很需要钱 许愿一个爱我的🚪哥验证20什么都接 价格过门解锁\n#女高 #小狗 #反差 #电子女友 #广东 #半绿 #线下 https://t.co/u8b97c05Aa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 61,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T18:56:55.000Z",
+        "description": "今年上高一 家里人不给我生活费 有两只小猫要养",
+        "id": "2063333985514901504",
+        "location": "🚪88 188 288 520 1314 ",
+        "name": "相對無言",
+        "pinned_tweet_id": "2078734039125725674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077299913021603840/n2MXGwP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 14,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "WgehWgehcmwo",
+        "verified": false
+      }
+    ]
+  }
+}

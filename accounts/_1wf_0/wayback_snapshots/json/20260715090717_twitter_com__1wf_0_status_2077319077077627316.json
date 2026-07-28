@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077299093194620928",
+        "3_2077299093148413952",
+        "3_2077299093202972672",
+        "3_2077299093899259904"
+      ],
+      "media_source_tweet_id": [
+        "2077299114459767256",
+        "2077299114459767256",
+        "2077299114459767256",
+        "2077299114459767256"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2077319077077627316",
+    "created_at": "2026-07-15T09:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077319077077627316"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "电子女友"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "抑郁症"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "半绿"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "广东"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "线下"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "陪玩"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2063333985514901504",
+          "start": 3,
+          "username": "WgehWgehcmwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bhTUaVsLZE",
+          "end": 134,
+          "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+          "media_key": "3_2077299093194620928",
+          "start": 111,
+          "url": "https://t.co/bhTUaVsLZE"
+        },
+        {
+          "display_url": "pic.x.com/bhTUaVsLZE",
+          "end": 134,
+          "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+          "media_key": "3_2077299093148413952",
+          "start": 111,
+          "url": "https://t.co/bhTUaVsLZE"
+        },
+        {
+          "display_url": "pic.x.com/bhTUaVsLZE",
+          "end": 134,
+          "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+          "media_key": "3_2077299093202972672",
+          "start": 111,
+          "url": "https://t.co/bhTUaVsLZE"
+        },
+        {
+          "display_url": "pic.x.com/bhTUaVsLZE",
+          "end": 134,
+          "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+          "media_key": "3_2077299093899259904",
+          "start": 111,
+          "url": "https://t.co/bhTUaVsLZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077319077077627316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077299114459767256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WgehWgehcmwo: 一个泪泪的置顶🔝\n坐标广东全国可飞家里人不给我生活费很需要钱 我有药瘾\n许愿一个爱我的🚪哥验证20什么都接价格详细在p4\n#电子女友 #抑郁症 #门槛妹 #半绿 #广东 #线下 #陪玩 https://t.co/bhTUaVsLZE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2077299093194620928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQMhO4bQAA9B7n.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2077299093148413952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQMhOtaMAALEKg.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1921,
+        "media_key": "3_2077299093202972672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQMhO6asAAwKVF.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077299093899259904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQMhRgbMAAYPq8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077299093194620928",
+            "3_2077299093148413952",
+            "3_2077299093202972672",
+            "3_2077299093899259904"
+          ],
+          "media_source_tweet_id": [
+            "2077299114459767256",
+            "2077299114459767256",
+            "2077299114459767256",
+            "2077299114459767256"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2077319077077627316",
+        "created_at": "2026-07-15T09:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077319077077627316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "电子女友"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "抑郁症"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "半绿"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "广东"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "线下"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "陪玩"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063333985514901504",
+              "start": 3,
+              "username": "WgehWgehcmwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 134,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093194620928",
+              "start": 111,
+              "url": "https://t.co/bhTUaVsLZE"
+            },
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 134,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093148413952",
+              "start": 111,
+              "url": "https://t.co/bhTUaVsLZE"
+            },
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 134,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093202972672",
+              "start": 111,
+              "url": "https://t.co/bhTUaVsLZE"
+            },
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 134,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093899259904",
+              "start": 111,
+              "url": "https://t.co/bhTUaVsLZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077319077077627316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077299114459767256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WgehWgehcmwo: 一个泪泪的置顶🔝\n坐标广东全国可飞家里人不给我生活费很需要钱 我有药瘾\n许愿一个爱我的🚪哥验证20什么都接价格详细在p4\n#电子女友 #抑郁症 #门槛妹 #半绿 #广东 #线下 #陪玩 https://t.co/bhTUaVsLZE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077299093194620928",
+            "3_2077299093148413952",
+            "3_2077299093202972672",
+            "3_2077299093899259904"
+          ]
+        },
+        "author_id": "2063333985514901504",
+        "conversation_id": "2077299114459767256",
+        "created_at": "2026-07-15T07:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077299114459767256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "电子女友"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "抑郁症"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "半绿"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "广东"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "线下"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "陪玩"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 116,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093194620928",
+              "start": 93,
+              "url": "https://t.co/bhTUaVsLZE"
+            },
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 116,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093148413952",
+              "start": 93,
+              "url": "https://t.co/bhTUaVsLZE"
+            },
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 116,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093202972672",
+              "start": 93,
+              "url": "https://t.co/bhTUaVsLZE"
+            },
+            {
+              "display_url": "pic.x.com/bhTUaVsLZE",
+              "end": 116,
+              "expanded_url": "https://x.com/wgehcmwo/status/2077299114459767256/photo/1",
+              "media_key": "3_2077299093899259904",
+              "start": 93,
+              "url": "https://t.co/bhTUaVsLZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077299114459767256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一个泪泪的置顶🔝\n坐标广东全国可飞家里人不给我生活费很需要钱 我有药瘾\n许愿一个爱我的🚪哥验证20什么都接价格详细在p4\n#电子女友 #抑郁症 #门槛妹 #半绿 #广东 #线下 #陪玩 https://t.co/bhTUaVsLZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2075674217828512085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075671341467074560/2Mwmvahk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 61,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T18:56:55.000Z",
+        "description": "🚪88 188 288 520 1314……",
+        "id": "2063333985514901504",
+        "name": "相對無言",
+        "pinned_tweet_id": "2077299114459767256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077299913021603840/n2MXGwP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "WgehWgehcmwo",
+        "verified": false
+      }
+    ]
+  }
+}
