@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082372708588023808"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2082372714426409206",
+    "created_at": "2026-07-29T07:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082372714426409206"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "门槛哥"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xzrYQsqqy3",
+          "end": 49,
+          "expanded_url": "https://x.com/_1wf_0/status/2082372714426409206/photo/1",
+          "media_key": "3_2082372708588023808",
+          "start": 26,
+          "url": "https://t.co/xzrYQsqqy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082372714426409206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "開放線下了＞&lt;\n#门槛妹 #爸爸活 #门槛哥 https://t.co/xzrYQsqqy3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_2082372708588023808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYS8hFbcAAPGyf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082372708588023808"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2082372714426409206",
+        "created_at": "2026-07-29T07:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082372714426409206"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzrYQsqqy3",
+              "end": 49,
+              "expanded_url": "https://x.com/_1wf_0/status/2082372714426409206/photo/1",
+              "media_key": "3_2082372708588023808",
+              "start": 26,
+              "url": "https://t.co/xzrYQsqqy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082372714426409206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "開放線下了＞&lt;\n#门槛妹 #爸爸活 #门槛哥 https://t.co/xzrYQsqqy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好\n52解鎖身材 坐標",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "痛苦是青少年2.0",
+        "pinned_tweet_id": "2081265313497370926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081461991764615168/o-YsBJhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 58,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      }
+    ]
+  }
+}

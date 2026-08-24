@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082374984765476864"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2082374990306103550",
+    "created_at": "2026-07-29T07:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082374990306103550"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 42,
+          "start": 38,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "爸爸活"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlzoA40VOr",
+          "end": 71,
+          "expanded_url": "https://x.com/_1wf_0/status/2082374990306103550/photo/1",
+          "media_key": "3_2082374984765476864",
+          "start": 48,
+          "url": "https://t.co/zlzoA40VOr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082374990306103550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "生病了要錢看醫生呢🥺\n開放線下了喵 \n現在入門還有優惠神秘小禮物\n#门槛妹 #门槛哥 #爸爸活 https://t.co/zlzoA40VOr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_2082374984765476864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYVBAgbEAAhh1F.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082374984765476864"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2082374990306103550",
+        "created_at": "2026-07-29T07:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082374990306103550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlzoA40VOr",
+              "end": 71,
+              "expanded_url": "https://x.com/_1wf_0/status/2082374990306103550/photo/1",
+              "media_key": "3_2082374984765476864",
+              "start": 48,
+              "url": "https://t.co/zlzoA40VOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082374990306103550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生病了要錢看醫生呢🥺\n開放線下了喵 \n現在入門還有優惠神秘小禮物\n#门槛妹 #门槛哥 #爸爸活 https://t.co/zlzoA40VOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n52解鎖坐標",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "奇怪的青少年",
+        "pinned_tweet_id": "2081265313497370926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081461991764615168/o-YsBJhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 59,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      }
+    ]
+  }
+}

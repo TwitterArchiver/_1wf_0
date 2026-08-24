@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2081364242331238864",
+    "created_at": "2026-07-27T02:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081573267069075532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2024886790398902274",
+          "start": 0,
+          "username": "lnyzhn761700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081573267069075532",
+    "in_reply_to_user_id": "2024886790398902274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081542645835501575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyzhn761700 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2081364242331238864",
+        "created_at": "2026-07-27T02:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081573267069075532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2024886790398902274",
+              "start": 0,
+              "username": "lnyzhn761700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081573267069075532",
+        "in_reply_to_user_id": "2024886790398902274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081542645835501575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyzhn761700 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024886790398902274",
+        "conversation_id": "2081364242331238864",
+        "created_at": "2026-07-27T00:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081542645835501575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075670932119859200",
+              "start": 0,
+              "username": "_1wf_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081542645835501575",
+        "in_reply_to_user_id": "2075670932119859200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081459634930700735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_1wf_0 為啥是爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "(?´•ω•｀)え？\n=TT/淚醬\n精神狀態不穩定但很友好\n52解鎖身材 坐標",
+        "id": "2075670932119859200",
+        "location": "你在世界的角落找到我了嗎",
+        "name": "痛苦是青少年2.0",
+        "pinned_tweet_id": "2081265313497370926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081461991764615168/o-YsBJhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 59,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-20T16:40:18.000Z",
+        "description": "",
+        "id": "2024886790398902274",
+        "name": "小特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080803227499704321/kgDz5p0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "lnyzhn761700",
+        "verified": false
+      }
+    ]
+  }
+}
