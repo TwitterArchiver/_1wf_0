@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098088920936529923",
+        "3_2098088920944918534"
+      ],
+      "media_source_tweet_id": [
+        "2098088931854303419",
+        "2098088931854303419"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2098399026727342208",
+    "created_at": "2026-09-11T13:11:28.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098399026727342208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980612830824132609",
+          "start": 3,
+          "username": "seeFvn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yc4vkQe7b6",
+          "end": 82,
+          "expanded_url": "https://x.com/seeFvn/status/2098088931854303419/photo/1",
+          "media_key": "3_2098088920936529923",
+          "start": 59,
+          "url": "https://t.co/yc4vkQe7b6"
+        },
+        {
+          "display_url": "pic.x.com/yc4vkQe7b6",
+          "end": 82,
+          "expanded_url": "https://x.com/seeFvn/status/2098088931854303419/photo/1",
+          "media_key": "3_2098088920944918534",
+          "start": 59,
+          "url": "https://t.co/yc4vkQe7b6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098399026727342208",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098088920936529923"
+      },
+      {
+        "media_key": "3_2098088920944918534"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098088931854303419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seeFvn: 易滥用药物个人评价\n（仅个人经历分享，正常剂量医师指导）\n（非医学建议 如有需要请询问医师） https://t.co/yc4vkQe7b6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098088920936529923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3oweeawAMmfgu.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098088920944918534",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3owegawAYPZkL.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098088920936529923",
+            "3_2098088920944918534"
+          ],
+          "media_source_tweet_id": [
+            "2098088931854303419",
+            "2098088931854303419"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2098399026727342208",
+        "created_at": "2026-09-11T13:11:28.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098399026727342208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980612830824132609",
+              "start": 3,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc4vkQe7b6",
+              "end": 82,
+              "expanded_url": "https://x.com/seeFvn/status/2098088931854303419/photo/1",
+              "media_key": "3_2098088920936529923",
+              "start": 59,
+              "url": "https://t.co/yc4vkQe7b6"
+            },
+            {
+              "display_url": "pic.x.com/yc4vkQe7b6",
+              "end": 82,
+              "expanded_url": "https://x.com/seeFvn/status/2098088931854303419/photo/1",
+              "media_key": "3_2098088920944918534",
+              "start": 59,
+              "url": "https://t.co/yc4vkQe7b6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098399026727342208",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098088920936529923"
+          },
+          {
+            "media_key": "3_2098088920944918534"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098088931854303419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seeFvn: 易滥用药物个人评价\n（仅个人经历分享，正常剂量医师指导）\n（非医学建议 如有需要请询问医师） https://t.co/yc4vkQe7b6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098088920936529923",
+            "3_2098088920944918534"
+          ]
+        },
+        "author_id": "1980612830824132609",
+        "conversation_id": "2098088931854303419",
+        "created_at": "2026-09-10T16:39:16.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098088931854303419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc4vkQe7b6",
+              "end": 70,
+              "expanded_url": "https://x.com/seeFvn/status/2098088931854303419/photo/1",
+              "media_key": "3_2098088920936529923",
+              "start": 47,
+              "url": "https://t.co/yc4vkQe7b6"
+            },
+            {
+              "display_url": "pic.x.com/yc4vkQe7b6",
+              "end": 70,
+              "expanded_url": "https://x.com/seeFvn/status/2098088931854303419/photo/1",
+              "media_key": "3_2098088920944918534",
+              "start": 47,
+              "url": "https://t.co/yc4vkQe7b6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098088931854303419",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098088920936529923"
+          },
+          {
+            "media_key": "3_2098088920944918534"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4537,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "易滥用药物个人评价\n（仅个人经历分享，正常剂量医师指导）\n（非医学建议 如有需要请询问医师） https://t.co/yc4vkQe7b6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2098399026727342208",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 84,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2098173547634217379",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 861,
+          "like_count": 10814,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2303
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

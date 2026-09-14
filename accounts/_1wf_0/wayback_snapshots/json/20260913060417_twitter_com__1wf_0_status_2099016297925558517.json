@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098500765073453063"
+      ],
+      "media_source_tweet_id": [
+        "2098500795536716147"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2099016297925558517",
+    "created_at": "2026-09-13T06:04:17.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T07:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099016297925558517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2069739689989341184",
+          "start": 3,
+          "username": "jenerobelili"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nRmmFNWejL",
+          "end": 95,
+          "expanded_url": "https://x.com/jenerobelili/status/2098500795536716147/video/1",
+          "media_key": "13_2098500765073453063",
+          "start": 72,
+          "url": "https://t.co/nRmmFNWejL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099016297925558517",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2098500765073453063"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098500795536716147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jenerobelili: Cinsel olmayan samimiyet o kadar kaybolmuş bir sanat. https://t.co/nRmmFNWejL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21199,
+        "height": 640,
+        "media_key": "13_2098500765073453063",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098500765073453063/img/5xdLPKBorLxP7YKp.jpg",
+        "public_metrics": {
+          "view_count": 1558117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098500765073453063/vid/avc1/454x270/OHmfJ4aIKWNkVl_e.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098500765073453063/vid/avc1/606x360/5fjuIoLqAr70UzaA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098500765073453063/vid/avc1/1080x640/YjhVYokEE_7VjKSU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098500765073453063/pl/N9ZrfDfR_ENI9oru.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098500765073453063"
+          ],
+          "media_source_tweet_id": [
+            "2098500795536716147"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2099016297925558517",
+        "created_at": "2026-09-13T06:04:17.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099016297925558517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2069739689989341184",
+              "start": 3,
+              "username": "jenerobelili"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRmmFNWejL",
+              "end": 95,
+              "expanded_url": "https://x.com/jenerobelili/status/2098500795536716147/video/1",
+              "media_key": "13_2098500765073453063",
+              "start": 72,
+              "url": "https://t.co/nRmmFNWejL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099016297925558517",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2098500765073453063"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098500795536716147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jenerobelili: Cinsel olmayan samimiyet o kadar kaybolmuş bir sanat. https://t.co/nRmmFNWejL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098500765073453063"
+          ]
+        },
+        "author_id": "2069739689989341184",
+        "conversation_id": "2098500795536716147",
+        "created_at": "2026-09-11T19:55:52.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098500795536716147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRmmFNWejL",
+              "end": 77,
+              "expanded_url": "https://x.com/jenerobelili/status/2098500795536716147/video/1",
+              "media_key": "13_2098500765073453063",
+              "start": 54,
+              "url": "https://t.co/nRmmFNWejL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098500795536716147",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2098500765073453063"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13146,
+          "impression_count": 3459013,
+          "like_count": 136928,
+          "quote_count": 1494,
+          "reply_count": 180,
+          "retweet_count": 25756
+        },
+        "reply_settings": "everyone",
+        "text": "Cinsel olmayan samimiyet o kadar kaybolmuş bir sanat. https://t.co/nRmmFNWejL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2099016297925558517",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 83,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T11:10:00.000Z",
+        "description": "hissel",
+        "id": "2069739689989341184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098887177799139757",
+        "name": "meri",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096248018488172544/avCe75tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1,
+          "like_count": 175,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "jenerobelili",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

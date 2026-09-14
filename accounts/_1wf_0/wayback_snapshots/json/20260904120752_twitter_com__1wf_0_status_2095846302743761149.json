@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095846292996190208"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2095846302743761149",
+    "created_at": "2026-09-04T12:07:52.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095846302743761149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zsTVYCmm3L",
+          "end": 32,
+          "expanded_url": "https://x.com/_1wf_0/status/2095846302743761149/photo/1",
+          "media_key": "3_2095846292996190208",
+          "start": 9,
+          "url": "https://t.co/zsTVYCmm3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095846302743761149",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095846292996190208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就是这臭婊子霸凌 https://t.co/zsTVYCmm3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_2095846292996190208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXxGWXbcAA2z0k.jpg",
+        "width": 1819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095846292996190208"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2095846302743761149",
+        "created_at": "2026-09-04T12:07:52.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095846302743761149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsTVYCmm3L",
+              "end": 32,
+              "expanded_url": "https://x.com/_1wf_0/status/2095846302743761149/photo/1",
+              "media_key": "3_2095846292996190208",
+              "start": 9,
+              "url": "https://t.co/zsTVYCmm3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095846302743761149",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095846292996190208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是这臭婊子霸凌 https://t.co/zsTVYCmm3L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2095846302743761149",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 63,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

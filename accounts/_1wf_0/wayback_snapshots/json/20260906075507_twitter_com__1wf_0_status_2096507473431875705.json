@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2096507473431875705",
+    "created_at": "2026-09-06T07:55:07.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096507473431875705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2086021325106319360",
+          "start": 3,
+          "username": "kent4uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096507473431875705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096248283131998352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kent4uf: 虽然我每天就发一些黄色暴力饥渴难耐的推文，但我依然是一个懵懂可爱的呆萌小处女呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2096507473431875705",
+        "created_at": "2026-09-06T07:55:07.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096507473431875705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2086021325106319360",
+              "start": 3,
+              "username": "kent4uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096507473431875705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096248283131998352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kent4uf: 虽然我每天就发一些黄色暴力饥渴难耐的推文，但我依然是一个懵懂可爱的呆萌小处女呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086021325106319360",
+        "conversation_id": "2096248283131998352",
+        "created_at": "2026-09-05T14:45:11.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T15:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096248283131998352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096248283131998352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13700,
+          "like_count": 278,
+          "quote_count": 8,
+          "reply_count": 132,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我每天就发一些黄色暴力饥渴难耐的推文，但我依然是一个懵懂可爱的呆萌小处女呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2096507473431875705",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 70,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T09:27:52.000Z",
+        "description": "一切推文内容为口嗨意淫",
+        "id": "2086021325106319360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096377842196238543",
+        "name": "kent",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086021325106319360/1787414078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086021763482484737/cd3DGtsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 66,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "kent4uf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

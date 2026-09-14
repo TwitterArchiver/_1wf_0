@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2097659776054575536",
+    "created_at": "2026-09-09T14:42:02.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097697041287918042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088745596236750848",
+          "start": 0,
+          "username": "yangdeyang1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097697041287918042",
+    "in_reply_to_user_id": "2088745596236750848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097694516077875405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangdeyang1 亲亲亲亲亲老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2097659776054575536",
+        "created_at": "2026-09-09T14:42:02.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097697041287918042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088745596236750848",
+              "start": 0,
+              "username": "yangdeyang1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097697041287918042",
+        "in_reply_to_user_id": "2088745596236750848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097694516077875405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangdeyang1 亲亲亲亲亲老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088745596236750848",
+        "conversation_id": "2097659776054575536",
+        "created_at": "2026-09-09T14:32:00.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097694516077875405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075670932119859200",
+              "start": 0,
+              "username": "_1wf_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097694516077875405",
+        "in_reply_to_user_id": "2075670932119859200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097659776054575536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_1wf_0 好美丽我爸爸我老公我哥哥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2097697041287918042",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 75,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T21:52:47.000Z",
+        "description": "只是一滩平静的水",
+        "id": "2088745596236750848",
+        "is_identity_verified": false,
+        "location": "我在苏州你想咋滴？",
+        "most_recent_tweet_id": "2097696569227358392",
+        "name": "小羊的羊",
+        "pinned_tweet_id": "2095445737454932078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088745596236750848/1788964384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096466806794006528/aKD-0eWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 15,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "yangdeyang1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

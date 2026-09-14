@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2096545769264480352",
+    "created_at": "2026-09-06T10:27:17.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096545769264480352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2088805270549917696",
+          "start": 3,
+          "username": "hhitlerkun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096545769264480352",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096373355922211128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hhitlerkun: yo solo queria drogarme y cortarme :v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2096545769264480352",
+        "created_at": "2026-09-06T10:27:17.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096545769264480352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2088805270549917696",
+              "start": 3,
+              "username": "hhitlerkun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096545769264480352",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096373355922211128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hhitlerkun: yo solo queria drogarme y cortarme :v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088805270549917696",
+        "conversation_id": "2096373355922211128",
+        "created_at": "2026-09-05T23:02:11.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T00:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096373355922211128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096373355922211128",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1942,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "yo solo queria drogarme y cortarme :v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2096545769264480352",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 71,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T01:50:05.000Z",
+        "description": "ARRASTRATE A MI INFIERNO",
+        "id": "2088805270549917696",
+        "is_identity_verified": false,
+        "location": "AGENDER TALVEZ ? ",
+        "most_recent_tweet_id": "2096509873265459634",
+        "name": "kade",
+        "pinned_tweet_id": "2096158474388303934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088805270549917696/1788063757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093916636147253248/jlGjYC79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 354,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "hhitlerkun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2096260178471784556",
+    "created_at": "2026-09-05T15:32:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096260178471784556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2075630222213558272",
+          "start": 3,
+          "username": "kurabakei2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096260178471784556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096232161653428394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurabakei2: 這裡是闇葉🍃🍂\n因為可惡的msk終究還是來到了2.0\n我是一个很好的女孩 \n身高155cm \n09/自傷/od/雙相/bpd/催吐/解離\n男的請先過門檻再私信，🚪88起\n座標香港🇭🇰接爸爸活\n想找回前世互關們，請幫幫我\n女孩子互轉可以找我！我很友…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096232112911437824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdQABjaUAAiUBS.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096232129688641536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdQBADaIAAlhQb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3646,
+        "media_key": "3_2096232145622851584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdQB7aa4AAgAg-.jpg",
+        "width": 3603
+      },
+      {
+        "height": 1012,
+        "media_key": "3_2096232156750307328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdQCk3aYAA_97A.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2096260178471784556",
+        "created_at": "2026-09-05T15:32:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096260178471784556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2075630222213558272",
+              "start": 3,
+              "username": "kurabakei2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096260178471784556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096232161653428394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurabakei2: 這裡是闇葉🍃🍂\n因為可惡的msk終究還是來到了2.0\n我是一个很好的女孩 \n身高155cm \n09/自傷/od/雙相/bpd/催吐/解離\n男的請先過門檻再私信，🚪88起\n座標香港🇭🇰接爸爸活\n想找回前世互關們，請幫幫我\n女孩子互轉可以找我！我很友…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096232112911437824",
+            "3_2096232129688641536",
+            "3_2096232145622851584",
+            "3_2096232156750307328"
+          ]
+        },
+        "author_id": "2075630222213558272",
+        "conversation_id": "2096232161653428394",
+        "created_at": "2026-09-05T13:41:08.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096232161653428394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/85TdpQJzju",
+              "end": 169,
+              "expanded_url": "https://x.com/kurabakei2/status/2096232161653428394/photo/1",
+              "media_key": "3_2096232112911437824",
+              "start": 146,
+              "url": "https://t.co/85TdpQJzju"
+            },
+            {
+              "display_url": "pic.x.com/85TdpQJzju",
+              "end": 169,
+              "expanded_url": "https://x.com/kurabakei2/status/2096232161653428394/photo/1",
+              "media_key": "3_2096232129688641536",
+              "start": 146,
+              "url": "https://t.co/85TdpQJzju"
+            },
+            {
+              "display_url": "pic.x.com/85TdpQJzju",
+              "end": 169,
+              "expanded_url": "https://x.com/kurabakei2/status/2096232161653428394/photo/1",
+              "media_key": "3_2096232145622851584",
+              "start": 146,
+              "url": "https://t.co/85TdpQJzju"
+            },
+            {
+              "display_url": "pic.x.com/85TdpQJzju",
+              "end": 169,
+              "expanded_url": "https://x.com/kurabakei2/status/2096232161653428394/photo/1",
+              "media_key": "3_2096232156750307328",
+              "start": 146,
+              "url": "https://t.co/85TdpQJzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096232161653428394",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096232112911437824"
+          },
+          {
+            "media_key": "3_2096232129688641536"
+          },
+          {
+            "media_key": "3_2096232145622851584"
+          },
+          {
+            "media_key": "3_2096232156750307328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是闇葉🍃🍂\n因為可惡的msk終究還是來到了2.0\n我是一个很好的女孩 \n身高155cm \n09/自傷/od/雙相/bpd/催吐/解離\n男的請先過門檻再私信，🚪88起\n座標香港🇭🇰接爸爸活\n想找回前世互關們，請幫幫我\n女孩子互轉可以找我！我很友好！\n求你不要再ban我了。。。已老實。。。 https://t.co/85TdpQJzju"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2096260178471784556",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 67,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T17:18:12.000Z",
+        "description": "前身是@kurabakei\n想要找回前世互關寶寶們",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "kurabakei"
+              }
+            ]
+          }
+        },
+        "id": "2075630222213558272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096232622376591790",
+        "name": "闇葉2.0",
+        "pinned_tweet_id": "2096232161653428394",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075630222213558272/1783704772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075632150859403265/DMnbNGyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 56,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "kurabakei2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

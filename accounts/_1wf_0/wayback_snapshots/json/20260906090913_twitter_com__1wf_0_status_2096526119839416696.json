@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096526114034499585"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2096526119839416696",
+    "created_at": "2026-09-06T09:09:13.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096526119839416696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NI44NWL40u",
+          "end": 51,
+          "expanded_url": "https://x.com/_1wf_0/status/2096526119839416696/photo/1",
+          "media_key": "3_2096526114034499585",
+          "start": 28,
+          "url": "https://t.co/NI44NWL40u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096526119839416696",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096526114034499585"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我恨自己是 玻璃心 被对象那个了一句 就直接停号了。。 https://t.co/NI44NWL40u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2096526114034499585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhbZJFbQAE9H5i.jpg",
+        "width": 328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096526114034499585"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2096526119839416696",
+        "created_at": "2026-09-06T09:09:13.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096526119839416696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NI44NWL40u",
+              "end": 51,
+              "expanded_url": "https://x.com/_1wf_0/status/2096526119839416696/photo/1",
+              "media_key": "3_2096526114034499585",
+              "start": 28,
+              "url": "https://t.co/NI44NWL40u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096526119839416696",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096526114034499585"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨自己是 玻璃心 被对象那个了一句 就直接停号了。。 https://t.co/NI44NWL40u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2096526119839416696",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 70,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
