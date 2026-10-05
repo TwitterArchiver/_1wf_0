@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104175990889172992",
+        "3_2104175990838902784"
+      ],
+      "media_source_tweet_id": [
+        "2104175995297337583",
+        "2104175995297337583"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104520950188482950",
+    "created_at": "2026-09-28T10:37:49.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104520950188482950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1323168272561287168",
+          "start": 3,
+          "username": "___h___r___k__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D5zjJSSY22",
+          "end": 70,
+          "expanded_url": "https://x.com/___h___r___k__/status/2104175995297337583/photo/1",
+          "media_key": "3_2104175990889172992",
+          "start": 47,
+          "url": "https://t.co/D5zjJSSY22"
+        },
+        {
+          "display_url": "pic.x.com/D5zjJSSY22",
+          "end": 70,
+          "expanded_url": "https://x.com/___h___r___k__/status/2104175995297337583/photo/1",
+          "media_key": "3_2104175990838902784",
+          "start": 47,
+          "url": "https://t.co/D5zjJSSY22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104520950188482950",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104175990889172992"
+      },
+      {
+        "media_key": "3_2104175990838902784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104175995297337583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @___h___r___k__: vivienneのピンクからしか得られない幸せがある https://t.co/D5zjJSSY22"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104175990889172992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOI6lHa0AA9yNb.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104175990838902784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOI6k7bwAAnIt6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104175990889172992",
+            "3_2104175990838902784"
+          ],
+          "media_source_tweet_id": [
+            "2104175995297337583",
+            "2104175995297337583"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104520950188482950",
+        "created_at": "2026-09-28T10:37:49.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104520950188482950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1323168272561287168",
+              "start": 3,
+              "username": "___h___r___k__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5zjJSSY22",
+              "end": 70,
+              "expanded_url": "https://x.com/___h___r___k__/status/2104175995297337583/photo/1",
+              "media_key": "3_2104175990889172992",
+              "start": 47,
+              "url": "https://t.co/D5zjJSSY22"
+            },
+            {
+              "display_url": "pic.x.com/D5zjJSSY22",
+              "end": 70,
+              "expanded_url": "https://x.com/___h___r___k__/status/2104175995297337583/photo/1",
+              "media_key": "3_2104175990838902784",
+              "start": 47,
+              "url": "https://t.co/D5zjJSSY22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104520950188482950",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104175990889172992"
+          },
+          {
+            "media_key": "3_2104175990838902784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104175995297337583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @___h___r___k__: vivienneのピンクからしか得られない幸せがある https://t.co/D5zjJSSY22"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104175990889172992",
+            "3_2104175990838902784"
+          ]
+        },
+        "author_id": "1323168272561287168",
+        "conversation_id": "2104175995297337583",
+        "created_at": "2026-09-27T11:47:05.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104175995297337583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5zjJSSY22",
+              "end": 50,
+              "expanded_url": "https://x.com/___h___r___k__/status/2104175995297337583/photo/1",
+              "media_key": "3_2104175990889172992",
+              "start": 27,
+              "url": "https://t.co/D5zjJSSY22"
+            },
+            {
+              "display_url": "pic.x.com/D5zjJSSY22",
+              "end": 50,
+              "expanded_url": "https://x.com/___h___r___k__/status/2104175995297337583/photo/1",
+              "media_key": "3_2104175990838902784",
+              "start": 27,
+              "url": "https://t.co/D5zjJSSY22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104175995297337583",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104175990889172992"
+          },
+          {
+            "media_key": "3_2104175990838902784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 930,
+          "impression_count": 207023,
+          "like_count": 9618,
+          "quote_count": 101,
+          "reply_count": 1,
+          "retweet_count": 584
+        },
+        "reply_settings": "everyone",
+        "text": "vivienneのピンクからしか得られない幸せがある https://t.co/D5zjJSSY22"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104520950188482950",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 101,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-02T07:41:23.000Z",
+        "description": "服飾勤務。可愛いものを見つけるのが得意です 🥚†",
+        "id": "1323168272561287168",
+        "is_identity_verified": true,
+        "location": "tokyo ",
+        "most_recent_tweet_id": "2104519527799414983",
+        "name": "HRK",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1323168272561287168/1780136997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104498887172198400/mJp3XWJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155993,
+          "following_count": 78,
+          "like_count": 7824,
+          "listed_count": 644,
+          "media_count": 3658,
+          "tweet_count": 8180
+        },
+        "url": "",
+        "username": "___h___r___k__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

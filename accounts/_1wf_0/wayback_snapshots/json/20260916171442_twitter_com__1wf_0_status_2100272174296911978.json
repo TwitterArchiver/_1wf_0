@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2100272174296911978",
+    "created_at": "2026-09-16T17:14:42.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100272174296911978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905566526595629060",
+          "start": 3,
+          "username": "Apipleeeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100272174296911978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100091303765963093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Apipleeeee: 能把“我们现在是什么关系”这句话聊明白的可以去调解俄乌战争"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2100272174296911978",
+        "created_at": "2026-09-16T17:14:42.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100272174296911978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905566526595629060",
+              "start": 3,
+              "username": "Apipleeeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100272174296911978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100091303765963093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Apipleeeee: 能把“我们现在是什么关系”这句话聊明白的可以去调解俄乌战争"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905566526595629060",
+        "conversation_id": "2100091303765963093",
+        "created_at": "2026-09-16T05:15:59.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100091303765963093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100091303765963093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 23326,
+          "like_count": 486,
+          "quote_count": 10,
+          "reply_count": 49,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "能把“我们现在是什么关系”这句话聊明白的可以去调解俄乌战争"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2100272174296911978",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 87,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-28T10:24:09.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "work-fengniao.com",
+                "end": 23,
+                "expanded_url": "https://www.work-fengniao.com",
+                "start": 0,
+                "url": "https://t.co/Dsq2OLNgMn"
+              }
+            ]
+          }
+        },
+        "id": "1905566526595629060",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100260517634015334",
+        "name": "苹果",
+        "pinned_tweet_id": "2041450168307024329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905566526595629060/1770901033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021931545674850304/T1ritExR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14054,
+          "following_count": 1,
+          "like_count": 5236,
+          "listed_count": 35,
+          "media_count": 628,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/Dsq2OLNgMn",
+        "username": "Apipleeeee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

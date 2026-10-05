@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2102409911879819294",
+    "created_at": "2026-09-22T14:49:18.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T15:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102409911879819294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cografiatlas/s…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/cografiatlas/status/2102115750651596848",
+          "start": 23,
+          "url": "https://t.co/T7WAIhXg09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102409911879819294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102115750651596848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚刚恋爱的时候我就说要拍了\n不过到现在都没有 https://t.co/T7WAIhXg09"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15766,
+        "height": 608,
+        "media_key": "13_2102115720695820289",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102115720695820289/img/hB6gtIy5lsGO1wxW.jpg",
+        "public_metrics": {
+          "view_count": 531533
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102115720695820289/vid/avc1/478x270/XhhTHtFIpkxOXoYR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102115720695820289/vid/avc1/638x360/Ievyk6jddxS0XtWV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102115720695820289/vid/avc1/1080x608/U7fXmeWxeGMqdYYK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102115720695820289/pl/-pH-s3JfqJoC16aC.m3u8?v=487"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2102409911879819294",
+        "created_at": "2026-09-22T14:49:18.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102409911879819294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cografiatlas/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/cografiatlas/status/2102115750651596848",
+              "start": 23,
+              "url": "https://t.co/T7WAIhXg09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102409911879819294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102115750651596848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚恋爱的时候我就说要拍了\n不过到现在都没有 https://t.co/T7WAIhXg09"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102115720695820289"
+          ]
+        },
+        "author_id": "4164827596",
+        "conversation_id": "2102115750651596848",
+        "created_at": "2026-09-21T19:20:25.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102115750651596848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YQCYiQgNi",
+              "end": 97,
+              "expanded_url": "https://x.com/cografiatlas/status/2102115750651596848/video/1",
+              "media_key": "13_2102115720695820289",
+              "start": 74,
+              "url": "https://t.co/6YQCYiQgNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102115750651596848",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2102115720695820289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2895,
+          "impression_count": 1317465,
+          "like_count": 36812,
+          "quote_count": 314,
+          "reply_count": 25,
+          "retweet_count": 5316
+        },
+        "reply_settings": "everyone",
+        "text": "Hayatımın aşkıyla foto kulübesinde fotograf çektirmek hala dilek listemde https://t.co/6YQCYiQgNi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2102409911879819294",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 87,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-11-11T15:46:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/vilanelle_",
+                "end": 23,
+                "expanded_url": "https://x.com/vilanelle_",
+                "start": 0,
+                "url": "https://t.co/JgYq9uUbq1"
+              }
+            ]
+          }
+        },
+        "id": "4164827596",
+        "is_identity_verified": false,
+        "location": "🇹🇷",
+        "most_recent_tweet_id": "2102409554738721261",
+        "name": "evaa 𓃠",
+        "pinned_tweet_id": "2084376152416854488",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4164827596/1752318960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096968853485928448/sVwIHza8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16378,
+          "following_count": 397,
+          "like_count": 381946,
+          "listed_count": 7,
+          "media_count": 5466,
+          "tweet_count": 55933
+        },
+        "url": "https://t.co/JgYq9uUbq1",
+        "username": "cografiatlas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

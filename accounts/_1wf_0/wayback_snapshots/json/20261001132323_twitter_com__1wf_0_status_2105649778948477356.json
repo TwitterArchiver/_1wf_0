@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2105649778948477356",
+    "created_at": "2026-10-01T13:23:23.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T14:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105649778948477356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2087687244476018688",
+          "start": 3,
+          "username": "Npr4z_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105649778948477356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 219
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105301241870107127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Npr4z_: できることなら嫉妬されたい、欲しがられたい、私がほかの人の方を向くだけで不安になってほしい、広い世界を見た結果私だけを好きでいて欲しい、私を自分のものにしたいって思ってほしい、最後は殺して欲しい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2105649778948477356",
+        "created_at": "2026-10-01T13:23:23.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T14:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105649778948477356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2087687244476018688",
+              "start": 3,
+              "username": "Npr4z_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105649778948477356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 219
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105301241870107127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Npr4z_: できることなら嫉妬されたい、欲しがられたい、私がほかの人の方を向くだけで不安になってほしい、広い世界を見た結果私だけを好きでいて欲しい、私を自分のものにしたいって思ってほしい、最後は殺して欲しい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087687244476018688",
+        "conversation_id": "2105301241870107127",
+        "created_at": "2026-09-30T14:18:25.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105301241870107127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105301241870107127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 30259,
+          "like_count": 1191,
+          "quote_count": 40,
+          "reply_count": 1,
+          "retweet_count": 219
+        },
+        "reply_settings": "everyone",
+        "text": "できることなら嫉妬されたい、欲しがられたい、私がほかの人の方を向くだけで不安になってほしい、広い世界を見た結果私だけを好きでいて欲しい、私を自分のものにしたいって思ってほしい、最後は殺して欲しい。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2105649778948477356",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 105,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T23:50:32.000Z",
+        "description": "いちねんせい🗝@Ngt_kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "Ngt_kg"
+              }
+            ]
+          }
+        },
+        "id": "2087687244476018688",
+        "is_identity_verified": false,
+        "location": "101A4B",
+        "most_recent_tweet_id": "2105644203988668673",
+        "name": "寝言",
+        "pinned_tweet_id": "2098977190654484791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087687244476018688/1787717212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091125164885045248/xMafXHKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 40,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Npr4z_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

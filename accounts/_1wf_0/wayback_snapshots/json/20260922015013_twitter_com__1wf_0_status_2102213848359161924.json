@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2101839326774427847",
+    "created_at": "2026-09-22T01:50:13.000Z",
+    "display_text_range": [
+      10,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102213848359161924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102213848359161924",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101839326774427847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir 海鲜是可持续 吸管 是额外产生嘅即弃垃圾 大部分都会直接扔海里 海洋生物 容易误食不要发些这么脑残的东西好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2101634607552811008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqBimbaUAAPdUJ.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2101839326774427847",
+        "created_at": "2026-09-22T01:50:13.000Z",
+        "display_text_range": [
+          10,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102213848359161924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102213848359161924",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101839326774427847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir 海鲜是可持续 吸管 是额外产生嘅即弃垃圾 大部分都会直接扔海里 海洋生物 容易误食不要发些这么脑残的东西好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101634607552811008"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101839326774427847",
+        "created_at": "2026-09-21T01:02:00.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101839326774427847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKXlkGQYNw",
+              "end": 35,
+              "expanded_url": "https://x.com/bigjusir/status/2101839326774427847/photo/1",
+              "media_key": "3_2101634607552811008",
+              "start": 12,
+              "url": "https://t.co/OKXlkGQYNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101839326774427847",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101634607552811008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 165734,
+          "like_count": 2395,
+          "quote_count": 4,
+          "reply_count": 77,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "动保的那群人真的很奇葩 https://t.co/OKXlkGQYNw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2102213848359161924",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 87,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102204819654193597",
+        "name": "jusir",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6046,
+          "following_count": 4452,
+          "like_count": 9777,
+          "listed_count": 20,
+          "media_count": 1316,
+          "tweet_count": 5287
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2099148349081530800",
+    "created_at": "2026-09-13T21:14:15.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T22:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099245296933011544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1946204672748085248",
+          "start": 0,
+          "username": "46f___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099245296933011544",
+    "in_reply_to_user_id": "1946204672748085248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099148349081530800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@46f___ 很恶心超级恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2099148349081530800",
+        "created_at": "2026-09-13T21:14:15.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T22:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099245296933011544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1946204672748085248",
+              "start": 0,
+              "username": "46f___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099245296933011544",
+        "in_reply_to_user_id": "1946204672748085248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099148349081530800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@46f___ 很恶心超级恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946204672748085248",
+        "conversation_id": "2099148349081530800",
+        "created_at": "2026-09-13T14:49:01.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099148349081530800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099148349081530800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 70781,
+          "like_count": 504,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "那个西藏一个女孩被迫嫁给四个兄弟跪在地上哭的视频把我给看吐了。我今天什么也没吃所以把胃酸和胆汁给吐出来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2099245296933011544",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 83,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T13:46:02.000Z",
+        "description": "谢谢你喜欢我的画。我的精神状态一直不太好，所以这个账号大多时候是用来发泄情绪的。请务必谨慎关注。我不想影响你的心情或者伤害到你。对不起。杂：@_imiganai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "_imiganai"
+              }
+            ]
+          }
+        },
+        "id": "1946204672748085248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099197948311847282",
+        "name": "……",
+        "pinned_tweet_id": "1983947431583879604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946204672748085248/1783407543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098359376767803392/mUQ8u9Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 281,
+          "like_count": 9144,
+          "listed_count": 4,
+          "media_count": 657,
+          "tweet_count": 5529
+        },
+        "url": "",
+        "username": "46f___",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

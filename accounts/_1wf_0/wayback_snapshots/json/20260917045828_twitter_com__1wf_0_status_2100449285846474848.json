@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2100449285846474848",
+    "created_at": "2026-09-17T04:58:28.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100449285846474848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1838203519863508992",
+          "start": 3,
+          "username": "Aaqian07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100449285846474848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100139793414004884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aaqian07: 这是我这个月看过的最好笑的视频，我肺泡都笑炸了你知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2100449285846474848",
+        "created_at": "2026-09-17T04:58:28.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100449285846474848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1838203519863508992",
+              "start": 3,
+              "username": "Aaqian07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100449285846474848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100139793414004884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aaqian07: 这是我这个月看过的最好笑的视频，我肺泡都笑炸了你知道吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838203519863508992",
+        "conversation_id": "2100139793414004884",
+        "created_at": "2026-09-16T08:28:40.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100139793414004884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vxnlzq/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/vxnlzq/status/2099786398014599516",
+              "start": 28,
+              "url": "https://t.co/yV9tVov6Xq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100139793414004884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 88410,
+          "like_count": 410,
+          "quote_count": 13,
+          "reply_count": 101,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099786398014599516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我这个月看过的最好笑的视频，我肺泡都笑炸了你知道吗 https://t.co/yV9tVov6Xq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2100449285846474848",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 87,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-23T13:07:42.000Z",
+        "description": "发点喜欢的\n成分复杂 私信挑着回\n扩列88 没福利 脑残滚",
+        "id": "1838203519863508992",
+        "is_identity_verified": false,
+        "location": "114514m",
+        "most_recent_tweet_id": "2100448297697829040",
+        "name": "很任性",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838203519863508992/1775551456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099097459146539008/eqG9Zesy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 59,
+          "like_count": 1258,
+          "listed_count": 5,
+          "media_count": 176,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "Aaqian07",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

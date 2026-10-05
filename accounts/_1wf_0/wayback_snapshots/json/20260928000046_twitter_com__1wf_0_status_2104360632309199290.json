@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104360632309199290",
+    "created_at": "2026-09-28T00:00:46.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T01:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104360632309199290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702695593926385664",
+          "start": 3,
+          "username": "DBSXXXXX"
+        },
+        {
+          "end": 21,
+          "id": "2075670932119859200",
+          "start": 14,
+          "username": "_1wf_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104360632309199290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104355416381743325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DBSXXXXX: @_1wf_0 別自欺欺人了，面對現實吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104360632309199290",
+        "created_at": "2026-09-28T00:00:46.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T01:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104360632309199290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702695593926385664",
+              "start": 3,
+              "username": "DBSXXXXX"
+            },
+            {
+              "end": 21,
+              "id": "2075670932119859200",
+              "start": 14,
+              "username": "_1wf_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104360632309199290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104355416381743325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DBSXXXXX: @_1wf_0 別自欺欺人了，面對現實吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702695593926385664",
+        "conversation_id": "2103731814691209351",
+        "created_at": "2026-09-27T23:40:02.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104355416381743325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075670932119859200",
+              "start": 0,
+              "username": "_1wf_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104355416381743325",
+        "in_reply_to_user_id": "2075670932119859200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103731814691209351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_1wf_0 別自欺欺人了，面對現實吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104360632309199290",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 101,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-15T14:47:47.000Z",
+        "description": "",
+        "id": "1702695593926385664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104355572116336887",
+        "name": "寄身獸",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704550244552425473/hJiGZH39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 19,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "url": "",
+        "username": "DBSXXXXX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

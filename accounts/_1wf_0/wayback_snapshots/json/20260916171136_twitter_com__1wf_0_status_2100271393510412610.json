@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2099780297416208842",
+    "created_at": "2026-09-16T17:11:36.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100271393510412610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100271393510412610",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099780297416208842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2099780297416208842",
+        "created_at": "2026-09-16T17:11:36.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100271393510412610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100271393510412610",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099780297416208842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2099780297416208842",
+        "created_at": "2026-09-15T08:40:09.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099780297416208842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099780297416208842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "害怕幸福的人会得到幸福吗..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2100271393510412610",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 85,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？|  07 | INTP-T | ASD | BPD | 另一个我 @她 | @loveksyi | - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV4LqN | 互联网时光机 | 第三世界线 @ |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "loveksyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 115,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 92,
+                "url": "https://t.co/zQUuHV4LqN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIjWU"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2099805102228033959",
+        "name": "拜託",
+        "pinned_tweet_id": "2080253118928056811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1440268407249649668/1767103740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 742,
+          "like_count": 4294,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/exd5BvIjWU",
+        "username": "sjshb57",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098815227852922880"
+      ],
+      "media_source_tweet_id": [
+        "2099105814850195594"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2099332028303106536",
+    "created_at": "2026-09-14T02:58:53.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T03:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099332028303106536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911294414781337600",
+          "start": 3,
+          "username": "itsD3lay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FDl0hJODKx",
+          "end": 85,
+          "expanded_url": "https://x.com/itsD3lay/status/2099105814850195594/photo/1",
+          "media_key": "3_2098815227852922880",
+          "start": 62,
+          "url": "https://t.co/FDl0hJODKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099332028303106536",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2098815227852922880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099105814850195594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsD3lay: cuando uso \"😔\" esto es lo que quiero transmitir https://t.co/FDl0hJODKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2098815227852922880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB9VGlaoAAkPKz.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098815227852922880"
+          ],
+          "media_source_tweet_id": [
+            "2099105814850195594"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2099332028303106536",
+        "created_at": "2026-09-14T02:58:53.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T03:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099332028303106536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "911294414781337600",
+              "start": 3,
+              "username": "itsD3lay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDl0hJODKx",
+              "end": 85,
+              "expanded_url": "https://x.com/itsD3lay/status/2099105814850195594/photo/1",
+              "media_key": "3_2098815227852922880",
+              "start": 62,
+              "url": "https://t.co/FDl0hJODKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099332028303106536",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2098815227852922880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099105814850195594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsD3lay: cuando uso \"😔\" esto es lo que quiero transmitir https://t.co/FDl0hJODKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098815227852922880"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "conversation_id": "2099105814850195594",
+        "created_at": "2026-09-13T12:00:00.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099105814850195594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FDl0hJODKx",
+              "end": 71,
+              "expanded_url": "https://x.com/itsD3lay/status/2099105814850195594/photo/1",
+              "media_key": "3_2098815227852922880",
+              "start": 48,
+              "url": "https://t.co/FDl0hJODKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099105814850195594",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2098815227852922880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 482,
+          "impression_count": 133611,
+          "like_count": 19354,
+          "quote_count": 25,
+          "reply_count": 9,
+          "retweet_count": 5107
+        },
+        "reply_settings": "everyone",
+        "text": "cuando uso \"😔\" esto es lo que quiero transmitir https://t.co/FDl0hJODKx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2099332028303106536",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 83,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contact: itsd3laybusiness@gmail.com📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2mu7"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "is_identity_verified": false,
+        "location": "bcn",
+        "most_recent_tweet_id": "2099317212154581368",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2003258938356301936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/911294414781337600/1659253439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158964,
+          "following_count": 1299,
+          "like_count": 770296,
+          "listed_count": 280,
+          "media_count": 23716,
+          "tweet_count": 78895
+        },
+        "url": "https://t.co/EjiUPH2mu7",
+        "username": "itsD3lay",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

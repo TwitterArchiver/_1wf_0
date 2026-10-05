@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104521850810491321",
+    "created_at": "2026-09-28T10:41:24.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104521850810491321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1495461809381208064",
+          "start": 3,
+          "username": "33bdullaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104521850810491321",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104168375463096822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @33bdullaaa: i get so happy when you talk to me"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104521850810491321",
+        "created_at": "2026-09-28T10:41:24.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104521850810491321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495461809381208064",
+              "start": 3,
+              "username": "33bdullaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104521850810491321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104168375463096822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @33bdullaaa: i get so happy when you talk to me"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495461809381208064",
+        "conversation_id": "2104168375463096822",
+        "created_at": "2026-09-27T11:16:48.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104168375463096822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104168375463096822",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 49539,
+          "like_count": 3470,
+          "quote_count": 33,
+          "reply_count": 9,
+          "retweet_count": 1232
+        },
+        "reply_settings": "everyone",
+        "text": "i get so happy when you talk to me"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104521850810491321",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 101,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-20T18:14:34.000Z",
+        "description": "",
+        "id": "1495461809381208064",
+        "is_identity_verified": false,
+        "location": "United Arab Emirates",
+        "most_recent_tweet_id": "2104412137556939116",
+        "name": "‘",
+        "pinned_tweet_id": "1540059557543698432",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836850618381533184/19taR9BU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5815,
+          "following_count": 9,
+          "like_count": 25686,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 2506
+        },
+        "url": "",
+        "username": "33bdullaaa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

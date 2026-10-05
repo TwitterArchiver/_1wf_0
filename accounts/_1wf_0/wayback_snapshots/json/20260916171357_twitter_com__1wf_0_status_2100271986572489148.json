@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2100065393071345795",
+    "created_at": "2026-09-16T17:13:57.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100271986572489148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100271986572489148",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100065393071345795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 都不去我要刷推特"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2100065390651199490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTuWJ7bUAInH5O.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2100065393071345795",
+        "created_at": "2026-09-16T17:13:57.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100271986572489148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100271986572489148",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100065393071345795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 都不去我要刷推特"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100065390651199490"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2100065393071345795",
+        "created_at": "2026-09-16T03:33:01.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100065393071345795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKHHfPqqxi",
+              "end": 28,
+              "expanded_url": "https://x.com/wsl8297/status/2100065393071345795/photo/1",
+              "media_key": "3_2100065390651199490",
+              "start": 5,
+              "url": "https://t.co/mKHHfPqqxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100065393071345795",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100065390651199490"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 45814,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选哪个？ https://t.co/mKHHfPqqxi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2100271986572489148",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 87,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100270791891775997",
+        "name": "Joruno",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890029305205608448/1768743778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22557,
+          "following_count": 701,
+          "like_count": 25448,
+          "listed_count": 110,
+          "media_count": 5524,
+          "tweet_count": 23742
+        },
+        "url": "",
+        "username": "wsl8297",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

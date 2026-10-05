@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103768429916246016"
+      ],
+      "media_source_tweet_id": [
+        "2103768459385716912"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104074691229204647",
+    "created_at": "2026-09-27T05:04:32.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T06:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104074691229204647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1650249313656664064",
+          "start": 3,
+          "username": "benrozayal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VETYCucW3C",
+          "end": 100,
+          "expanded_url": "https://x.com/benrozayal/status/2103768459385716912/video/1",
+          "media_key": "13_2103768429916246016",
+          "start": 77,
+          "url": "https://t.co/VETYCucW3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104074691229204647",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2103768429916246016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103768459385716912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benrozayal: Kontrol edemediğim şeyler için strese girmemeye çalışıyorum. https://t.co/VETYCucW3C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10377,
+        "height": 720,
+        "media_key": "13_2103768429916246016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103768429916246016/img/6I0X2movSZjDKY6I.jpg",
+        "public_metrics": {
+          "view_count": 49661
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103768429916246016/vid/avc1/278x270/vYxgpbIeTvb02Cob.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103768429916246016/vid/avc1/372x360/I_8546c8TtbjL2cN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103768429916246016/vid/avc1/744x720/YQCLMtmDzS38gQt7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103768429916246016/pl/OUaRdGekc_C9TJ4z.m3u8?v=cfc"
+          }
+        ],
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103768429916246016"
+          ],
+          "media_source_tweet_id": [
+            "2103768459385716912"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104074691229204647",
+        "created_at": "2026-09-27T05:04:32.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104074691229204647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1650249313656664064",
+              "start": 3,
+              "username": "benrozayal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VETYCucW3C",
+              "end": 100,
+              "expanded_url": "https://x.com/benrozayal/status/2103768459385716912/video/1",
+              "media_key": "13_2103768429916246016",
+              "start": 77,
+              "url": "https://t.co/VETYCucW3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104074691229204647",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2103768429916246016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103768459385716912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benrozayal: Kontrol edemediğim şeyler için strese girmemeye çalışıyorum. https://t.co/VETYCucW3C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103768429916246016"
+          ]
+        },
+        "author_id": "1650249313656664064",
+        "conversation_id": "2103768459385716912",
+        "created_at": "2026-09-26T08:47:41.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103768459385716912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VETYCucW3C",
+              "end": 84,
+              "expanded_url": "https://x.com/benrozayal/status/2103768459385716912/video/1",
+              "media_key": "13_2103768429916246016",
+              "start": 61,
+              "url": "https://t.co/VETYCucW3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103768459385716912",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2103768429916246016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 127643,
+          "like_count": 9628,
+          "quote_count": 37,
+          "reply_count": 4,
+          "retweet_count": 2158
+        },
+        "reply_settings": "everyone",
+        "text": "Kontrol edemediğim şeyler için strese girmemeye çalışıyorum. https://t.co/VETYCucW3C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104074691229204647",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 104,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-23T21:24:52.000Z",
+        "description": "𝘒𝘦𝘴𝘪𝘯 𝘴𝘦𝘴𝘪𝘯𝘪𝘻𝘪 𝘴𝘪𝘻𝘦 𝘯𝘰𝘭𝘶𝘺𝘰𝘳 𝘭𝘢𝘯☞",
+        "id": "1650249313656664064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103966447525335387",
+        "name": "𝓢🪐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650249313656664064/1790454354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098183785577930752/pVovWSIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7699,
+          "following_count": 771,
+          "like_count": 475721,
+          "listed_count": 15,
+          "media_count": 3531,
+          "tweet_count": 30538
+        },
+        "url": "",
+        "username": "benrozayal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

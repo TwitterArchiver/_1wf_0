@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2102004459497050378",
+    "created_at": "2026-09-21T11:58:11.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T12:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102004459497050378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_1wf_0/status/…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/_1wf_0/status/2102003742916886663",
+          "start": 142,
+          "url": "https://t.co/HiTFJnZfzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102004459497050378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102003742916886663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有所有人我都能合理化唯独你 我不懂啊你哄哄我也好啊你知道我现在好痛好焦虑好不安吗 因为怀孕哭因为分手哭 我快要绝望了 我快要去死了 就算你不爱了你也陪陪我 你陪我打电话也好 出来吃饭也好 不要让我觉得被这个世界抛弃呀 你真的一个礼拜都忍不了我吗 不能等到我打掉吗 我这么惹人讨厌吗 https://t.co/HiTFJnZfzZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2102004459497050378",
+        "created_at": "2026-09-21T11:58:11.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102004459497050378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_1wf_0/status/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/_1wf_0/status/2102003742916886663",
+              "start": 142,
+              "url": "https://t.co/HiTFJnZfzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102004459497050378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102003742916886663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有所有人我都能合理化唯独你 我不懂啊你哄哄我也好啊你知道我现在好痛好焦虑好不安吗 因为怀孕哭因为分手哭 我快要绝望了 我快要去死了 就算你不爱了你也陪陪我 你陪我打电话也好 出来吃饭也好 不要让我觉得被这个世界抛弃呀 你真的一个礼拜都忍不了我吗 不能等到我打掉吗 我这么惹人讨厌吗 https://t.co/HiTFJnZfzZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2102003742916886663",
+        "created_at": "2026-09-21T11:55:20.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102003742916886663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102003742916886663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀孕不知可不可以打掉 然后打好痛 我现在也好痛 我爸妈不能知道 骗他们好焦虑 我不知道未来还可以生孩子吗  之后现在对象不要我 因为没有这么喜欢 是我逼他去陪我打 最后可能还是一个人  好朋友男朋友不喜欢我 要她让我自生自灭 没有人考虑过我 没有"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2102004459497050378",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 86,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

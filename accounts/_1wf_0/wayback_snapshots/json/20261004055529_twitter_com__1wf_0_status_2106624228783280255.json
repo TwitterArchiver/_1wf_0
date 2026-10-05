@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2106624228783280255",
+    "created_at": "2026-10-04T05:55:29.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106624228783280255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942846033769242624",
+          "start": 3,
+          "username": "hunhunxiaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106624228783280255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106412966627393747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hunhunxiaoyu: 发明约炮的人能不能发明个约抱 我想在秋天公园的长椅上彼此靠一会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2106624228783280255",
+        "created_at": "2026-10-04T05:55:29.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106624228783280255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942846033769242624",
+              "start": 3,
+              "username": "hunhunxiaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106624228783280255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106412966627393747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hunhunxiaoyu: 发明约炮的人能不能发明个约抱 我想在秋天公园的长椅上彼此靠一会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942846033769242624",
+        "conversation_id": "2106412966627393747",
+        "created_at": "2026-10-03T15:56:01.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106412966627393747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106412966627393747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 83586,
+          "like_count": 1666,
+          "quote_count": 18,
+          "reply_count": 153,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "发明约炮的人能不能发明个约抱 我想在秋天公园的长椅上彼此靠一会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2106624228783280255",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 105,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-09T07:19:33.000Z",
+        "description": "一个低精力人类。\n09 摩羯 双性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "icity.ly/u/rain_yu7",
+                "end": 23,
+                "expanded_url": "http://icity.ly/u/rain_yu7",
+                "start": 0,
+                "url": "https://t.co/4IBaUKWcaB"
+              }
+            ]
+          }
+        },
+        "id": "1942846033769242624",
+        "is_identity_verified": false,
+        "location": "文明绿色健康上网心理脆弱不要骚扰我",
+        "most_recent_tweet_id": "2106523435333792067",
+        "name": "世界是为你才变的吗",
+        "pinned_tweet_id": "2103474979375665160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942846033769242624/1790947084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049911161475538944/AMyDwej2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 168,
+          "like_count": 3441,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/4IBaUKWcaB",
+        "username": "hunhunxiaoyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

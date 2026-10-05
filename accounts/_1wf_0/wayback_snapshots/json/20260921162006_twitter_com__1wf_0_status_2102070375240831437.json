@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102070370652262404"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102070375240831437",
+    "created_at": "2026-09-21T16:20:06.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T17:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102070375240831437"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gamyPNTLSL",
+          "end": 40,
+          "expanded_url": "https://x.com/_1wf_0/status/2102070375240831437/photo/1",
+          "media_key": "3_2102070370652262404",
+          "start": 17,
+          "url": "https://t.co/gamyPNTLSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102070375240831437",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102070370652262404"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就這樣一直下去把時間停在這一刻吧 https://t.co/gamyPNTLSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 184,
+        "media_key": "3_2102070370652262404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwN3WeaEAQzYQ-.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102070370652262404"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102070375240831437",
+        "created_at": "2026-09-21T16:20:06.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102070375240831437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gamyPNTLSL",
+              "end": 40,
+              "expanded_url": "https://x.com/_1wf_0/status/2102070375240831437/photo/1",
+              "media_key": "3_2102070370652262404",
+              "start": 17,
+              "url": "https://t.co/gamyPNTLSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102070375240831437",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102070370652262404"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就這樣一直下去把時間停在這一刻吧 https://t.co/gamyPNTLSL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2102070375240831437",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 86,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

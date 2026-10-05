@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104521890887049577",
+    "created_at": "2026-09-28T10:41:33.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104521890887049577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986544643362988033",
+          "start": 3,
+          "username": "Evelyn_skz143"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104521890887049577",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 889
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104344758575391013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Evelyn_skz143: debi suicidarme cuando pude"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104521890887049577",
+        "created_at": "2026-09-28T10:41:33.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104521890887049577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986544643362988033",
+              "start": 3,
+              "username": "Evelyn_skz143"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104521890887049577",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 889
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104344758575391013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Evelyn_skz143: debi suicidarme cuando pude"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986544643362988033",
+        "conversation_id": "2104344758575391013",
+        "created_at": "2026-09-27T22:57:41.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T23:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104344758575391013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104344758575391013",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 19348,
+          "like_count": 2371,
+          "quote_count": 30,
+          "reply_count": 5,
+          "retweet_count": 889
+        },
+        "reply_settings": "everyone",
+        "text": "debi suicidarme cuando pude"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104521890887049577",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 101,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T21:22:28.000Z",
+        "description": "En los barrios de españa con @agustdgh 🇪🇸\nCon mi novia @Himarule0 💖💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "agustdgh"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Himarule0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@its_lynnie143…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@its_lynnie143?is_from_webapp=1&sender_device=pc",
+                "start": 0,
+                "url": "https://t.co/V9x65lGvGo"
+              }
+            ]
+          }
+        },
+        "id": "1986544643362988033",
+        "is_identity_verified": false,
+        "location": "Españaaa",
+        "most_recent_tweet_id": "2104368516182728736",
+        "name": ".•°¤*. 𝕃𝕪𝕟 .*¤°•.",
+        "pinned_tweet_id": "2095861941293981777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986544643362988033/1788915167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100693703698403328/tYviagUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 274,
+          "like_count": 5208,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 6318
+        },
+        "url": "https://t.co/V9x65lGvGo",
+        "username": "Evelyn_skz143",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

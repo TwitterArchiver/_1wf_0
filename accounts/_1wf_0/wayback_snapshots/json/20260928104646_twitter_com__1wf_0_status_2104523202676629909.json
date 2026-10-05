@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104523202676629909",
+    "created_at": "2026-09-28T10:46:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104523202676629909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082793582570745856",
+          "start": 3,
+          "username": "6ixpretty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104523202676629909",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1484
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104222791570723010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @6ixpretty: nothing is more attractive than a man admitting that he misses u, stalks u, reads old convos with you and is insanely obsess…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104523202676629909",
+        "created_at": "2026-09-28T10:46:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104523202676629909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082793582570745856",
+              "start": 3,
+              "username": "6ixpretty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104523202676629909",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1484
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104222791570723010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @6ixpretty: nothing is more attractive than a man admitting that he misses u, stalks u, reads old convos with you and is insanely obsess…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082793582570745856",
+        "conversation_id": "2104222791570723010",
+        "created_at": "2026-09-27T14:53:02.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104222791570723010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104222791570723010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 444,
+          "impression_count": 77830,
+          "like_count": 6916,
+          "quote_count": 105,
+          "reply_count": 26,
+          "retweet_count": 1484
+        },
+        "reply_settings": "everyone",
+        "text": "nothing is more attractive than a man admitting that he misses u, stalks u, reads old convos with you and is insanely obsessed with you"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104523202676629909",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 101,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T11:41:32.000Z",
+        "description": "wabi sabi\ngang✩ but i love my man.",
+        "id": "2082793582570745856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104511018357727488",
+        "name": "🫧🎀",
+        "pinned_tweet_id": "2083288107806331181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082793582570745856/1785512966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083217831701643264/olZZDcdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 294,
+          "like_count": 1358,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1438
+        },
+        "url": "",
+        "username": "6ixpretty",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2100415782715011115",
+    "created_at": "2026-09-17T02:45:21.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100415782715011115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1870858980752543744",
+          "start": 3,
+          "username": "AzaelRose1017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100415782715011115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099846010919080006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AzaelRose1017: bpd从别人嘴里听过最爽的话就是对我又爱又恨，完全辱追概念好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2100415782715011115",
+        "created_at": "2026-09-17T02:45:21.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100415782715011115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1870858980752543744",
+              "start": 3,
+              "username": "AzaelRose1017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100415782715011115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099846010919080006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AzaelRose1017: bpd从别人嘴里听过最爽的话就是对我又爱又恨，完全辱追概念好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870858980752543744",
+        "conversation_id": "2099846010919080006",
+        "created_at": "2026-09-15T13:01:16.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099846010919080006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099846010919080006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "bpd从别人嘴里听过最爽的话就是对我又爱又恨，完全辱追概念好吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ\n彼氏がいます\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2100415782715011115",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 87,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T15:48:53.000Z",
+        "description": "人生是用药物、血肉、金钱、和一理想筑起的牢笼，你我是共同体。\n我是阿清/双相／自伤／BPD/ADHD/ed／泛性恋/性别是阿普唑仑/互fo会查成分",
+        "id": "1870858980752543744",
+        "is_identity_verified": false,
+        "location": "马里亚纳海沟",
+        "most_recent_tweet_id": "2100282668134846553",
+        "name": "爱与致幻剂",
+        "pinned_tweet_id": "2098745237640290786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870858980752543744/1783516773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095560063805259777/rXTwHhZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 52,
+          "like_count": 1633,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 834
+        },
+        "url": "",
+        "username": "AzaelRose1017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

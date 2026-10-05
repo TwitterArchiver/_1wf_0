@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106154642107174913"
+      ],
+      "media_source_tweet_id": [
+        "2106154646972903846"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2106329655989133605",
+    "created_at": "2026-10-03T10:24:58.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106329655989133605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1534355177007943682",
+          "start": 3,
+          "username": "rokkusito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OFj6cEjUFg",
+          "end": 38,
+          "expanded_url": "https://x.com/rokkusito/status/2106154646972903846/photo/1",
+          "media_key": "3_2106154642107174913",
+          "start": 15,
+          "url": "https://t.co/OFj6cEjUFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106329655989133605",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2106154642107174913"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1373
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106154646972903846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rokkusito: https://t.co/OFj6cEjUFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2106154642107174913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTqQfPTWkAEayyE.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106154642107174913"
+          ],
+          "media_source_tweet_id": [
+            "2106154646972903846"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2106329655989133605",
+        "created_at": "2026-10-03T10:24:58.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106329655989133605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1534355177007943682",
+              "start": 3,
+              "username": "rokkusito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFj6cEjUFg",
+              "end": 38,
+              "expanded_url": "https://x.com/rokkusito/status/2106154646972903846/photo/1",
+              "media_key": "3_2106154642107174913",
+              "start": 15,
+              "url": "https://t.co/OFj6cEjUFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106329655989133605",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106154642107174913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1373
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106154646972903846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rokkusito: https://t.co/OFj6cEjUFg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106154642107174913"
+          ]
+        },
+        "author_id": "1534355177007943682",
+        "conversation_id": "2106154646972903846",
+        "created_at": "2026-10-02T22:49:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T23:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106154646972903846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFj6cEjUFg",
+              "end": 23,
+              "expanded_url": "https://x.com/rokkusito/status/2106154646972903846/photo/1",
+              "media_key": "3_2106154642107174913",
+              "start": 0,
+              "url": "https://t.co/OFj6cEjUFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106154646972903846",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2106154642107174913"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 56114,
+          "like_count": 4531,
+          "quote_count": 53,
+          "reply_count": 8,
+          "retweet_count": 1373
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OFj6cEjUFg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2106329655989133605",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 105,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-08T02:02:57.000Z",
+        "description": "お茶が好きです",
+        "id": "1534355177007943682",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106311755479892343",
+        "name": "rokku 𓏵",
+        "pinned_tweet_id": "2105055589604667485",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534355177007943682/1786870697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088913175873716224/nwkHZogH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 112,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "rokkusito",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

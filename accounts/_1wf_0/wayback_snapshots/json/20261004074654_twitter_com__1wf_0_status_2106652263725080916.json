@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2106652263725080916",
+    "created_at": "2026-10-04T07:46:54.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106652263725080916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1888540319970422784",
+          "start": 3,
+          "username": "whoisfolaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106652263725080916",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106312238734667861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whoisfolaa: Your hands, your hair, your eyes, your voice, your laugh, your smile, your face, your soul I love every little thing about…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2106652263725080916",
+        "created_at": "2026-10-04T07:46:54.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106652263725080916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1888540319970422784",
+              "start": 3,
+              "username": "whoisfolaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106652263725080916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106312238734667861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whoisfolaa: Your hands, your hair, your eyes, your voice, your laugh, your smile, your face, your soul I love every little thing about…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888540319970422784",
+        "conversation_id": "2106312238734667861",
+        "created_at": "2026-10-03T09:15:45.000Z",
+        "display_text_range": [
+          0,
+          218
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106312238734667861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106312238734667861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 10292,
+          "like_count": 524,
+          "quote_count": 16,
+          "reply_count": 4,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "Your hands, your hair, your eyes, your voice, your laugh, your smile, your face, your soul I love every little thing about you. Even the things you don’t notice about yourself, I find beautiful. I love you, all of you."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2106652263725080916",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 105,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-09T10:48:15.000Z",
+        "description": "former good person.",
+        "id": "1888540319970422784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106650236353474742",
+        "name": "✰",
+        "pinned_tweet_id": "2090515045331710151",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888540319970422784/1785856844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033289629143609344/X1Daa6oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 43,
+          "like_count": 7260,
+          "listed_count": 5,
+          "media_count": 804,
+          "tweet_count": 8858
+        },
+        "url": "",
+        "username": "whoisfolaa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104520896476283197",
+    "created_at": "2026-09-28T10:37:36.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T11:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104520896476283197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1872375916200108032",
+          "start": 3,
+          "username": "rottengiirl_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104520896476283197",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7232
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104080824564113462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rottengiirl_: estar conmigo debe ser algún tipo de autolesión"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104520896476283197",
+        "created_at": "2026-09-28T10:37:36.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104520896476283197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1872375916200108032",
+              "start": 3,
+              "username": "rottengiirl_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104520896476283197",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7232
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104080824564113462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rottengiirl_: estar conmigo debe ser algún tipo de autolesión"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872375916200108032",
+        "conversation_id": "2104080824564113462",
+        "created_at": "2026-09-27T05:28:55.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104080824564113462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104080824564113462",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 676,
+          "impression_count": 151699,
+          "like_count": 18621,
+          "quote_count": 127,
+          "reply_count": 17,
+          "retweet_count": 7232
+        },
+        "reply_settings": "everyone",
+        "text": "estar conmigo debe ser algún tipo de autolesión"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104520909130477715",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 101,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-26T20:17:21.000Z",
+        "description": "onᧉ ძαɥ im gonnα gɾoɯ ɯings (≧ω≦) \n\n  ꒰ #shtwt #edtwt #obselovetwt꒱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 40,
+                "tag": "shtwt"
+              },
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "edtwt"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "tag": "obselovetwt"
+              }
+            ]
+          }
+        },
+        "id": "1872375916200108032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104467944591761749",
+        "name": "Lele !",
+        "pinned_tweet_id": "2101806397180592373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872375916200108032/1737086478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071104889795555328/1jbwhfb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 311,
+          "like_count": 2387,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "rottengiirl_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

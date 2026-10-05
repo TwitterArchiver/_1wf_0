@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2075670932119859200",
+    "conversation_id": "2104884635364958439",
+    "created_at": "2026-09-29T10:42:58.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T11:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104884635364958439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882937199735590912",
+          "start": 3,
+          "username": "mmng_yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104884635364958439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104854898865267176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmng_yu: 「いまから〇〇するよ〜」とか、\n「いまお昼休憩はいったよ〜」とか、\n「いま仕事おわったから〇〇時くらいに帰るね」\nって連絡してくれる男はマジ最高すぎるし\nこれを当たり前にできる男は\nマジ絶滅危惧種だから絶対に手放しちゃダメ。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075670932119859200",
+        "conversation_id": "2104884635364958439",
+        "created_at": "2026-09-29T10:42:58.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104884635364958439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882937199735590912",
+              "start": 3,
+              "username": "mmng_yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104884635364958439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104854898865267176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmng_yu: 「いまから〇〇するよ〜」とか、\n「いまお昼休憩はいったよ〜」とか、\n「いま仕事おわったから〇〇時くらいに帰るね」\nって連絡してくれる男はマジ最高すぎるし\nこれを当たり前にできる男は\nマジ絶滅危惧種だから絶対に手放しちゃダメ。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882937199735590912",
+        "conversation_id": "2104854898865267176",
+        "created_at": "2026-09-29T08:44:48.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T09:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104854898865267176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104854898865267176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 13040,
+          "like_count": 398,
+          "quote_count": 13,
+          "reply_count": 3,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "「いまから〇〇するよ〜」とか、\n「いまお昼休憩はいったよ〜」とか、\n「いま仕事おわったから〇〇時くらいに帰るね」\nって連絡してくれる男はマジ最高すぎるし\nこれを当たり前にできる男は\nマジ絶滅危惧種だから絶対に手放しちゃダメ。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2104884635364958439",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 101,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T23:43:13.000Z",
+        "description": "幸せになりたい人の味方🤍",
+        "id": "1882937199735590912",
+        "is_identity_verified": false,
+        "location": "報われたいね‎",
+        "most_recent_tweet_id": "2104854898865267176",
+        "name": "もも",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882937199735590912/1741190035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891779799380893696/wS2YIh5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24491,
+          "following_count": 1,
+          "like_count": 2227,
+          "listed_count": 37,
+          "media_count": 2,
+          "tweet_count": 1735
+        },
+        "url": "",
+        "username": "mmng_yu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102133443148836864"
+      ],
+      "media_source_tweet_id": [
+        "2102133452175024254"
+      ]
+    },
+    "author_id": "2075670932119859200",
+    "conversation_id": "2102362924513968597",
+    "created_at": "2026-09-22T11:42:35.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T12:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102362924513968597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2081115372707823616",
+          "start": 3,
+          "username": "eqc1b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKoaZHEoeE",
+          "end": 49,
+          "expanded_url": "https://x.com/eqc1b/status/2102133452175024254/photo/1",
+          "media_key": "3_2102133443148836864",
+          "start": 26,
+          "url": "https://t.co/OKoaZHEoeE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102362924513968597",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102133443148836864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102133452175024254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eqc1b: 世界上根本没有这种情侣😭😭😭 https://t.co/OKoaZHEoeE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2102133443148836864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSxHOp1a8AAGAJu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102133443148836864"
+          ],
+          "media_source_tweet_id": [
+            "2102133452175024254"
+          ]
+        },
+        "author_id": "2075670932119859200",
+        "conversation_id": "2102362924513968597",
+        "created_at": "2026-09-22T11:42:35.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102362924513968597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2081115372707823616",
+              "start": 3,
+              "username": "eqc1b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKoaZHEoeE",
+              "end": 49,
+              "expanded_url": "https://x.com/eqc1b/status/2102133452175024254/photo/1",
+              "media_key": "3_2102133443148836864",
+              "start": 26,
+              "url": "https://t.co/OKoaZHEoeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102362924513968597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102133443148836864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102133452175024254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eqc1b: 世界上根本没有这种情侣😭😭😭 https://t.co/OKoaZHEoeE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102133443148836864"
+          ]
+        },
+        "author_id": "2081115372707823616",
+        "conversation_id": "2102133452175024254",
+        "created_at": "2026-09-21T20:30:45.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T21:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102133452175024254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKoaZHEoeE",
+              "end": 38,
+              "expanded_url": "https://x.com/eqc1b/status/2102133452175024254/photo/1",
+              "media_key": "3_2102133443148836864",
+              "start": 15,
+              "url": "https://t.co/OKoaZHEoeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102133452175024254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102133443148836864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 83515,
+          "like_count": 574,
+          "quote_count": 8,
+          "reply_count": 80,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "世界上根本没有这种情侣😭😭😭 https://t.co/OKoaZHEoeE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T19:59:15.000Z",
+        "description": "活着 痛。\n@lnyzhn761700 ᰔ　\n主頁查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "lnyzhn761700"
+              }
+            ]
+          }
+        },
+        "id": "2075670932119859200",
+        "is_identity_verified": false,
+        "location": "🚪88 ",
+        "most_recent_tweet_id": "2102362924513968597",
+        "name": "好痛苦可能因為是青少年2.0",
+        "pinned_tweet_id": "2095495734032556501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075670932119859200/1788385992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095268782671622144/6izct57d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 87,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "_1wf_0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T20:34:42.000Z",
+        "description": "",
+        "id": "2081115372707823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102136230683300132",
+        "name": "阿浩",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081115372707823616/1790060184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081116202278289408/2yUiov6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "eqc1b",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
